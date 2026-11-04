@@ -169,3 +169,4 @@ This project is completely funded by the amazing donations and support I get on 
 * Any developer who has released stuff for the Wii or contributed to its reverse engineering
 * [HTV04](https://github.com/HTV04), for developing [audiogc](https://github.com/HTV04/audiogc)
 * All my Patreon supporters
+* t
